@@ -21,4 +21,4 @@ Mostly just the following:
  - Some repos/forks I use for Discord servers I administrate/moderate
  - and maybe the occasional cringe issue that I cannot delete ~~existence is pain~~
 
-I can easily be reached via Discord LividJava#8420 or [Keybase](https://keybase.io/lividjava)
+I can easily be reached via Discord @LividJava
